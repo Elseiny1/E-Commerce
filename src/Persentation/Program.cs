@@ -1,3 +1,7 @@
+using Infrastructure;
+using Infrastructure.Data;
+using Microsoft.AspNetCore.Identity;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -5,6 +9,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+#region Add Services
+builder.AddInfrastructrueServices();
+
+#endregion
 
 var app = builder.Build();
 
