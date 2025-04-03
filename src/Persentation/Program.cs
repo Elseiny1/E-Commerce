@@ -11,7 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
 #region Add Services
-builder.AddInfrastructrueServices();
+builder.AddDatabaseConfig();
 
 #endregion
 

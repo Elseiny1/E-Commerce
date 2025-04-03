@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mv8EMwHuLIU=",
+  "dgSpecHash": "iFh9aWv01w4=",
   "success": true,
   "projectFilePath": "D:\\Ahmed\\E-Commerce\\src\\Persentation\\Persentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.3\\microsoft.aspnetcore.cryptography.internal.9.0.3.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\9.0.3\\microsoft.aspnetcore.cryptography.keyderivation.9.0.3.nupkg.sha512",

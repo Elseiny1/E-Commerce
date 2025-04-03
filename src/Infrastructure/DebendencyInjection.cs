@@ -9,7 +9,7 @@ namespace Infrastructure
 {
     public static class DebendencyInjection
     {
-        public static void AddInfrastructrueServices(this IHostApplicationBuilder builder)
+        public static void AddDatabaseConfig(this IHostApplicationBuilder builder)
         {
             var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
             builder.Services.AddDbContext<ECommerceDbContext>(options =>
