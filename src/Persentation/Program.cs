@@ -1,6 +1,7 @@
+using Application;
+using Application.Validator;
 using Infrastructure;
-using Infrastructure.Data;
-using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,7 @@ builder.Services.AddOpenApi();
 
 #region Add Services
 builder.AddDatabaseConfig();
+builder.AddApplication();
 
 #endregion
 

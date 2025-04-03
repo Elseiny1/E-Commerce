@@ -195,3 +195,5 @@ D:\Ahmed\E-Commerce\src\Persentation\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.
 D:\Ahmed\E-Commerce\src\Persentation\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Ahmed\E-Commerce\src\Persentation\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Ahmed\E-Commerce\src\Persentation\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ahmed\E-Commerce\src\Persentation\bin\Debug\net9.0\FluentValidation.dll
+D:\Ahmed\E-Commerce\src\Persentation\obj\Debug\net9.0\Persentation.sourcelink.json
